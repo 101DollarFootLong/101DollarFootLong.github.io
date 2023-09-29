@@ -17,6 +17,8 @@ permalink: /portfolio/
 * [Others]{:.heading.flip-title} --- Range from event coverage to shooting for the thrills.
 {:.related-posts.faded}
 
+
 [Shorts]: shorts.md
 [Wedding]: wedding.md
 [Others]: others.md
+
