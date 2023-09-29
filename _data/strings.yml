@@ -41,7 +41,7 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  See more  <!--post_title-->
 
 cookies_banner:
   text:                >
@@ -115,6 +115,7 @@ tinyletter:
     {:.faded}
 
 welcome:
+  message: Hello
   more_projects:       See <!--projects_title--> for more
   more_posts:          See <!--posts_title--> for more
 

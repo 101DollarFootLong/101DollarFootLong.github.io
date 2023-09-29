@@ -12,6 +12,8 @@ sitemap: false
 ~~~txt
 Testimonial
 ~~~
+> You can make a quote "pop out".
+{:.lead}
 
 {% include youtube.html id="C70OnY7BE2I" %} 
 ~~~txt
