@@ -13,7 +13,7 @@ sitemap: false
 
 ## Kai + Michelle
 {% include youtube.html id="C70OnY7BE2I" %} 
-> "We couldn't be happier with our decision to choose Thien to capture our special day. Thien's creativity and attention to detail truly shone through in our wedding video, and he managed to capture the most beautiful and candid moments. The video perfectly encapsulates the joy and love we felt on our wedding day, and we will treasure it forever. Thien's professionalism, dedication, and artistic talent make him the top choice for anyone seeking a memorable wedding video experience." - Kai + Michelle
+> "We're absolutely thrilled with Thien’s work as our wedding videographer. He skillfully captured every precious moment of our special day, turning it into a cinematic masterpiece that we'll treasure for a lifetime. He made us feel comfortable and confident throughout the day, ensuring that no perfect moment will be missed. His attention to detail and storytelling ability shone through in the final product. We can't express how grateful we are for the incredible job Thien did. If you're searching for someone to beautifully document your wedding, We highly recommend his services." - Kai + Michelle
 
 Checkout [Others](others.md){:.heading.flip-title}
 
