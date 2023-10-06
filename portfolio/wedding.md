@@ -9,7 +9,7 @@ sitemap: false
 
 ## Hieu + Ha
 {% include youtube.html id="Lw5GajUNldw" %} 
-> "Thien beautifully captured the essence of our traditional Vietnamese wedding. Thien's understanding of our cultural nuances and traditions was evident in every frame. The video not only showcased the vibrant colors and rituals but also the emotional connection we shared with our families. Thien's expertise in blending modern storytelling with our heritage made our wedding video an absolute treasure that we can't thank him enough for." - Hieu + Ha
+<!-- > "Thien beautifully captured the essence of our traditional Vietnamese wedding. Thien's understanding of our cultural nuances and traditions was evident in every frame. The video not only showcased the vibrant colors and rituals but also the emotional connection we shared with our families. Thien's expertise in blending modern storytelling with our heritage made our wedding video an absolute treasure that we can't thank him enough for." - Hieu + Ha -->
 
 ## Kai + Michelle
 {% include youtube.html id="C70OnY7BE2I" %} 
