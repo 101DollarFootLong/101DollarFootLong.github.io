@@ -6,9 +6,11 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
 2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+3. Run eval "$(rbenv init -)"  
+4. Run rbenv shell 3.2.2   
+5. Run `bundle install` [^1]
+6. Run `bundle exec jekyll serve`
+7. Open <http://localhost:4000/hydejack-starter-kit/>
 
 ## What's next?
 * Open files and read the comments
